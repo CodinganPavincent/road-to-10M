@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  background-color: #0f172a; /* Warna Background Gelap */
+  color: white;              /* Tulisan Putih */
+}
