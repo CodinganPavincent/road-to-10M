@@ -9,7 +9,7 @@ import { auth } from "./firebase";
 import { onAuthStateChanged } from "firebase/auth";
 
 // Import komponen yang udah kita pisah
-import Login from "./components/Login_FIX";
+import Login from "./components/Login";
 import Dashboard from "./components/Dashboard";
 
 function App() {
